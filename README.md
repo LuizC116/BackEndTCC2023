@@ -15,5 +15,5 @@ Ensino Técnico de Informática Integrado ao Médio
 * Monique Fernanda Barreto dos Santos
 * Vitória de Andrade Silva
 
-## Ambiente de Desenvolvimento Usado - BackEnd
+## Ambiente de Desenvolvimento - BackEnd
 [Codespaces](https://github.com/features/codespaces)
